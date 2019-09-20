@@ -116,6 +116,7 @@ Thanks!
 ## Authors
 
 **Olivier Louvignes**
+**Balagopal Bhallamudi**
 
 + http://olouv.com
 + http://github.com/mgcrea
